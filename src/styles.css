@@ -85,6 +85,15 @@ body {
     flex-direction: row;
 }
 
+.game-board {
+    font-family: Times New Roman;
+}
+
 .game-info {
     margin-left: 20px;
+}
+.image{
+    width: 250px;
+    height: 300px;
+    margin-left: 50px;
 }
